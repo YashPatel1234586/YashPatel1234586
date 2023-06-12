@@ -25,7 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpatel1234586&show_icons=true&locale=en" alt="yashpatel1234586" /></p>
-![Yash Patel GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash Patel &show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatel1234586&" alt="yashpatel1234586" /></p>
 
 
