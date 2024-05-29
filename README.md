@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">Data Analytics</h3>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **seaborn**
 
